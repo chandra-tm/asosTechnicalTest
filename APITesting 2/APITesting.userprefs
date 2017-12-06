@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{BA419803-C0A5-4AE8-B509-A1825B5637E1}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APITesting/APITests1.feature">
+    <Files>
+      <File FileName="APITesting/APITests1.feature.cs" Line="70" Column="28" />
+      <File FileName="APITesting/ApiTestsSteps1.cs" Line="29" Column="64" />
+      <File FileName="APITesting/BaseSteps.cs" Line="32" Column="10" />
+      <File FileName="APITesting/APITests1.feature" Line="11" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ukcpa01/Downloads/ASOS QA API Coding Test Assignment (1)/APITesting/APITesting/ApiTestsSteps1.cs" relfile="APITesting/ApiTestsSteps1.cs" line="59" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.APITesting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
